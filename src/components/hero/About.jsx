@@ -23,10 +23,7 @@ const About = () => {
           <div className=" gap-2 w-[100%]">
             <div className="flex gap-4 mb-4">
               <div className="w-[60%] h-[180px] px-3 pt-3 bg-blue-100 rounded-md flex justify-start gap-2">
-                <img
-                  className="w-[50px] h-[50px]"
-                  src="../src/assets/problem.png"
-                />
+                <img className="w-[50px] h-[50px]" src="/assets/problem.png" />
                 <div>
                   <div className="font-sans opacity-85 font-bold">
                     Problem Solving
@@ -39,10 +36,7 @@ const About = () => {
               </div>
 
               <div className="w-[60%] h-[auto] px-3 pt-3 bg-pink-100 rounded-md flex justify-start gap-2">
-                <img
-                  className="w-[50px] h-[50px]"
-                  src="../src/assets/web.png"
-                />
+                <img className="w-[50px] h-[50px]" src="/assets/web.png" />
                 <div>
                   <div className="font-sans opacity-85 font-bold">
                     Web Development
@@ -62,31 +56,31 @@ const About = () => {
       <div className="w-[100%] h-[150px] gap-9 bg-gray-100 flex items-center container">
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/c.png"
+          src="/assets/c.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/cpp.png"
+          src="/assets/cpp.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/java.png"
+          src="/assets/java.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items "
-          src="../src/assets/html.png"
+          src="/assets/html.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/css.png"
+          src="/assets/css.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/js.png"
+          src="/assets/js.png"
         />
         <img
           className="w-[100px] h-[100px] bg-white rounded-md horizontal-scrolling-items"
-          src="../src/assets/react.png"
+          src="/assets/react.png"
         />
       </div>
     </div>

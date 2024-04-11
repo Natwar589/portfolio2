@@ -9,7 +9,7 @@ const Profile = () => {
       <div className="absolute top-[-65px]">
         <img
           className="rounded-md w-[150px] h-[150px] shadow-xl hover:shadow-cyan-500/50 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 "
-          src="../src/assets/myImage.jpg"
+          src="/assets/myImage.jpg"
         />
       </div>
       <div className="w-full h-full flex gap-2 flex-col items-center justify-start">
@@ -67,7 +67,7 @@ const Profile = () => {
         <div className="w-[80%] h-[45%] bg-gray-100 rounded-md p-5 flex flex-col gap-2">
           <div className="flex gap-2">
             <img
-              src="../src/assets/contact.png"
+              src="/assets/contact.png"
               className="p-1 bg-white shadow-xl rounded-md"
               width={25}
               height={10}
@@ -84,7 +84,7 @@ const Profile = () => {
           <div>
             <div className="flex gap-2">
               <img
-                src="../src/assets/mail.png"
+                src="/assets/mail.png"
                 className="p-1 bg-white shadow-xl rounded-md"
                 width={25}
                 height={10}
@@ -103,7 +103,7 @@ const Profile = () => {
           <div>
             <div className="flex gap-2">
               <img
-                src="../src/assets/map.png"
+                src="/assets/map.png"
                 className="p-1 bg-white shadow-xl rounded-md"
                 width={25}
                 height={10}
@@ -122,7 +122,7 @@ const Profile = () => {
           <div>
             <div className="flex gap-2">
               <img
-                src="../src/assets/calender.png"
+                src="/assets/calender.png"
                 className="p-1 bg-white shadow-xl rounded-md"
                 width={25}
                 height={10}
@@ -141,7 +141,7 @@ const Profile = () => {
         <div className="cursor-pointer my-5">
           <div className="bg-cyan-500 shadow-lg hover:shadow-cyan-500/50  hover:bg-blue-500 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 rounded-md gap-2 p-2 flex items-center">
             <img
-              src="../src/assets/download.png"
+              src="/assets/download.png"
               width={20}
               height={20}
               className="text-white"

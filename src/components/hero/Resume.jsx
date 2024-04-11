@@ -13,7 +13,7 @@ const Resume = () => {
             <div className="flex gap-2 justify-center ">
               <img
                 className="w-[30px] h-[30px]"
-                src="../src/assets/education.png"
+                src="/assets/education.png"
               />
               <p className="">Education</p>
             </div>
@@ -43,7 +43,7 @@ const Resume = () => {
               <div className="flex gap-2 justify-center ">
                 <img
                   className="w-[30px] h-[30px]"
-                  src="../src/assets/education.png"
+                  src="/assets/education.png"
                 />
                 <p className="">Experiences</p>
               </div>
@@ -79,19 +79,19 @@ const Resume = () => {
           >
             <img
               className="w-[80px] h-[80px] object-fill shadow-lg p-1 rounded-full   transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  hover:shadow-cyan-500/50 bg-white"
-              src="../src/assets/studio.webp"
+              src="/assets/studio.webp"
             />
           </Link>
           <Link to="https://leetcode.com/nsr1078/" target=" ">
             <img
               className="w-[80px] h-[80px] object-fill shadow-lg p-1 rounded-full   transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  hover:shadow-cyan-500/50 bg-white"
-              src="../src/assets/leetcode.png"
+              src="/assets/leetcode.png"
             />
           </Link>
           <Link to="https://www.codechef.com/users/nsr39" target=" ">
             <img
               className="w-[80px] h-[80px] object-fill shadow-lg p-1 rounded-full   transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  hover:shadow-cyan-500/50 bg-white"
-              src="../src/assets/codechef.png"
+              src="/assets/codechef.png"
             />
           </Link>
           <Link
@@ -100,7 +100,7 @@ const Resume = () => {
           >
             <img
               className="w-[80px] h-[80px] object-fill  shadow-lg p-1 rounded-full   transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110  hover:shadow-cyan-500/50 bg-white"
-              src="../src/assets/gfg.png"
+              src="/assets/gfg.png"
             />
           </Link>
         </div>

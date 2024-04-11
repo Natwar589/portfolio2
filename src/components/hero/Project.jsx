@@ -10,10 +10,7 @@ const Project = () => {
       </div>
       <div className="grid grid-cols-2 grid-rows2 gap-4">
         <div className="h-[auto] rounded-md w-[280px] flex justify-center p-3 flex-col items-center bg-blue-100">
-          <img
-            className="w-[100px] h-[100px]"
-            src="../src/assets/contacts.png"
-          />
+          <img className="w-[100px] h-[100px]" src="/assets/contacts.png" />
           <h1 className="font-serif mt-3 text-[16px] font-bold opacity-85">
             Contact Store Using FireBase
           </h1>
@@ -39,7 +36,7 @@ const Project = () => {
           </div>
         </div>
         <div className="h-[auto] rounded-md w-[280px] flex justify-center p-3 flex-col items-center bg-pink-100">
-          <img className="w-[100px] h-[100px]" src="../src/assets/blog.png" />
+          <img className="w-[100px] h-[100px]" src="/assets/blog.png" />
           <h1 className="font-serif mt-3 text-[16px] font-bold opacity-85">
             Blog Website Using Appwrite
           </h1>
@@ -65,10 +62,7 @@ const Project = () => {
           </div>
         </div>
         <div className="h-[auto] rounded-md w-[280px] flex justify-center p-3 flex-col items-center bg-pink-100">
-          <img
-            className="w-[150px] h-[100px]"
-            src="../src/assets/hanoi_tower.png"
-          />
+          <img className="w-[150px] h-[100px]" src="/assets/hanoi_tower.png" />
           <h1 className="font-serif mt-3 text-[16px] font-bold opacity-85">
             Tower of Hanoi
           </h1>
@@ -93,10 +87,7 @@ const Project = () => {
           </div>
         </div>
         <div className="h-[auto] rounded-md w-[280px] flex justify-center p-3 flex-col items-center bg-pink-100">
-          <img
-            className="w-[150px] h-[100px]"
-            src="../src/assets/gallery.webp"
-          />
+          <img className="w-[150px] h-[100px]" src="/assets/gallery.webp" />
           <h1 className="font-serif mt-3 text-[16px] font-bold opacity-85">
             Photo Gallery
           </h1>
